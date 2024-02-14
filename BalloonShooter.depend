@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1676957383 source:c:\users\acer\desktop\balloonshooter\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1676526455 c:\users\acer\desktop\balloonshooter\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	<glaux.h>
+	"stb_image.h"
+
+1676439115 c:\users\acer\desktop\balloonshooter\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1677068719 source:c:\users\acer\desktop\suleman\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1676526455 c:\users\acer\desktop\suleman\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	<glaux.h>
+	"stb_image.h"
+
+1676439115 c:\users\acer\desktop\suleman\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1677586024 source:c:\users\acer\desktop\balloonupdate\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1676526455 c:\users\acer\desktop\balloonupdate\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	<glaux.h>
+	"stb_image.h"
+
+1676439115 c:\users\acer\desktop\balloonupdate\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1677586024 source:c:\users\acer\desktop\2105003\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1676526455 c:\users\acer\desktop\2105003\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	<glaux.h>
+	"stb_image.h"
+
+1676439115 c:\users\acer\desktop\2105003\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
